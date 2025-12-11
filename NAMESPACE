@@ -1,0 +1,11 @@
+# NAMESPACE file for nusseltCPU
+
+export(nusselt_dittus_boelter)
+export(nusselt_gnielinski)
+export(h_conv)
+export(resistance_conv)
+export(calc_Nusselt)
+export(cpu_temperature)
+export(plot_cpu_temp)
+export(compare_corr)
+export(compare_radiators)

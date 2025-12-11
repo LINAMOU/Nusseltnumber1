@@ -1,0 +1,15 @@
+Package: nusseltCPU
+Type: Package
+Title: Nusselt-based CPU Cooling Analysis
+Version: 0.1.0
+Author: Linamou
+Maintainer: Linamou <guyaristidelinamou4@gmai.com>
+Description: Provides functions to compute Nusselt numbers (Dittus-Boelter and Gnielinski),
+    convection coefficients, convective thermal resistance, and CPU temperature estimation.
+    Includes visualization tools to plot CPU temperature vs power, compare correlations,
+    and compare radiator designs. Useful for thermal engineering applications in PC cooling.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.6.0)
+RoxygenNote: 7.3.3

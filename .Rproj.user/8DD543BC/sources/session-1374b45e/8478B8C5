@@ -1,0 +1,26 @@
+{
+    "id": "8478B8C5",
+    "path": "C:/Users/DELL/Desktop/nusseltCPU/R/calc_Nusselt.R",
+    "project_path": "R/calc_Nusselt.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1765442272260.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,39",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765444147,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765444147968,
+    "read_only": false,
+    "read_only_alternatives": []
+}
